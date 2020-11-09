@@ -1,17 +1,17 @@
 # Contacts-App--iOS
 
-Level 1
-Review topics
-Arrays
-Dictionaries
-Structs and Classes
-Properties: computed properties
-UIViewController
-Storyboard and Interface Builder
-UITableView
-UITableViewDataSource
-UITableViewCell
-Contacts Dictionary
+* Level 1
+* Review topics
+* Arrays
+* Dictionaries
+* Structs and Classes
+* Properties: computed properties
+* UIViewController
+* Storyboard and Interface Builder
+* UITableView
+* UITableViewDataSource
+* UITableViewCell
+* Contacts Dictionary
 
 let contactsDict = [03364152046: ("Christin", "Böttger"),
                     927525456: ("Joaquin", "Bravo"),
@@ -34,6 +34,8 @@ let contactsDict = [03364152046: ("Christin", "Böttger"),
                     07798852536: ("Kristin", "Tausch"),
                     00499228235: ("Marissa", "Rode"),
 ]
+###
+
 Use the contacts dictionary provided to create an array of Contact objects.
 Show the list of contacts in a table view.
 Use the built-in table view cell's subtitle option:
